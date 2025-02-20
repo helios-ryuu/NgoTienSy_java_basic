@@ -39,7 +39,6 @@ public class Fraction implements Comparable<Fraction> {
         else System.out.println("Phân số f1 bằng phân só f2");
     }
 
-
     // Constructor
     public Fraction() {
         this.update();
